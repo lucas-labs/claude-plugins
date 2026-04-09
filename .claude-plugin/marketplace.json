@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "claude-plugins-official",
+  "name": "plugins-mirror",
   "description": "Directory of popular Claude Code extensions including development tools, productivity plugins, and MCP integrations",
   "owner": {
     "name": "Anthropic",
@@ -218,7 +218,7 @@
       },
       "source": "./plugins/claude-code-setup",
       "category": "productivity",
-      "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/claude-code-setup"
+      "homepage": "https://github.com/anthropics/plugins-mirror/tree/main/plugins/claude-code-setup"
     },
     {
       "name": "claude-md-management",
@@ -229,7 +229,7 @@
       },
       "source": "./plugins/claude-md-management",
       "category": "productivity",
-      "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/claude-md-management"
+      "homepage": "https://github.com/anthropics/plugins-mirror/tree/main/plugins/claude-md-management"
     },
     {
       "name": "cloudinary",
@@ -271,7 +271,7 @@
       },
       "source": "./plugins/code-simplifier",
       "category": "productivity",
-      "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/code-simplifier"
+      "homepage": "https://github.com/anthropics/plugins-mirror/tree/main/plugins/code-simplifier"
     },
     {
       "name": "coderabbit",
@@ -715,7 +715,7 @@
       },
       "source": "./plugins/math-olympiad",
       "category": "math",
-      "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/math-olympiad"
+      "homepage": "https://github.com/anthropics/plugins-mirror/tree/main/plugins/math-olympiad"
     },
     {
       "name": "mcp-server-dev",
@@ -726,7 +726,7 @@
       },
       "source": "./plugins/mcp-server-dev",
       "category": "development",
-      "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/mcp-server-dev"
+      "homepage": "https://github.com/anthropics/plugins-mirror/tree/main/plugins/mcp-server-dev"
     },
     {
       "name": "microsoft-docs",
@@ -909,7 +909,7 @@
       },
       "source": "./plugins/playground",
       "category": "development",
-      "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/playground"
+      "homepage": "https://github.com/anthropics/plugins-mirror/tree/main/plugins/playground"
     },
     {
       "name": "playwright",
@@ -1200,7 +1200,7 @@
       },
       "source": "./plugins/session-report",
       "category": "productivity",
-      "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/session-report"
+      "homepage": "https://github.com/anthropics/plugins-mirror/tree/main/plugins/session-report"
     },
     {
       "name": "skill-creator",
@@ -1211,7 +1211,7 @@
       },
       "source": "./plugins/skill-creator",
       "category": "development",
-      "homepage": "https://github.com/anthropics/claude-plugins-official/tree/main/plugins/skill-creator"
+      "homepage": "https://github.com/anthropics/plugins-mirror/tree/main/plugins/skill-creator"
     },
     {
       "name": "slack",
