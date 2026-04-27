@@ -872,6 +872,21 @@
       }
     },
     {
+      "name": "jfrog",
+      "description": "Use the JFrog Platform from Claude Code: Artifactory repos and artifacts, security findings and exposures, Catalog package safety and downloads, workflows across the SDLC, and platform administration.",
+      "author": {
+        "name": "JFrog Ltd.",
+        "url": "https://jfrog.com"
+      },
+      "category": "security",
+      "source": {
+        "source": "github",
+        "repo": "jfrog/claude-plugin",
+        "commit": "761921eaa12b845beba1688d699a2d45091dfe83"
+      },
+      "homepage": "https://jfrog.com"
+    },
+    {
       "name": "kotlin-lsp",
       "description": "Kotlin language server for code intelligence",
       "version": "1.0.0",
